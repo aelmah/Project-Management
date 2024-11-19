@@ -32,9 +32,9 @@ MTF is the global educational and research institute with HQ at Lisbon, Portugal
 
 ### Important ! 
 
-If you are preparing for the **CAPM** exam, the Professional Diploma in Technical Project Management and the Professional Diploma in Business Project Management are excellent options. These courses are highly recommended by **PMI** (Project Management Institute) as they provide foundational knowledge and practical skills required for the CAPM certification.
+If you are preparing for the [CAPM](https://www.pmi.org/certifications/certified-associate-capm) exam, the Professional Diploma in Technical Project Management and the Professional Diploma in Business Project Management are excellent options. These courses are highly recommended by [PMI](https://www.pmi.org/) (Project Management Institute) as they provide foundational knowledge and practical skills required for the CAPM certification.
 
-For those aiming to pass the **PMP** (Project Management Professional) exam, the Professional Diploma in Agile and Project Management is a great choice. This course covers Agile methodologies and project management principles that align well with the PMP exam requirements.
+For those aiming to pass the [PMP](https://www.pmi.org/certifications/project-management-pmp) (Project Management Professional) exam, the Professional Diploma in Agile and Project Management is a great choice. This course covers Agile methodologies and project management principles that align well with the PMP exam requirements.
 
 ### 📜 Licenses and References
 
